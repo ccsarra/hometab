@@ -4,10 +4,10 @@
 </head>
 <body bgcolor="#a3b18a">
 <a href="https://ccsarra.github.io/ccgsarra.github.io/">
-<h3><u><i>my 1st qtr portfolio!</u> </i></h3> </a>
+<h3>my 1st qtr portfolio!</h3> </a>
 <h1> welcome (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
 <h2> second quarter portfolio! </h2> <br>
-<a href="ihttps://ccsarra.github.io/introe/">
+<a href="https://ccsarra.github.io/introe/">
 <p><u> my introduction!</p></a>
 <a href="https://ccsarra.github.io/activities/">
 <p><u> 2nd qtr activities! </p></a>
